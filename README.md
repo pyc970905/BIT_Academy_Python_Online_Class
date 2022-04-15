@@ -1,2 +1,2 @@
-# BIT_Academy_Python_lecture
-# 1회차
+# BIT_Academy_Python_Lecture_Note
+
