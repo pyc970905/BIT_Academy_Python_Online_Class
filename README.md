@@ -1,2 +1,2 @@
-# BIT_Academy_Python_Lecture_Note
+# BIT_Academy_Python_Online_Class
 
